@@ -9,6 +9,8 @@ This repository contains the authentication (auth) microservice from Udacity's s
 
 To experiment with the endpoints, see the [Lesson 1: Authentication Microservice Docs on Apiary](http://docs.l1auth.apiary.io/#).
 
+You don't need to install swift on your local machine. Use Docker it will install and use swift inside Docker container.
+
 Also, the auth microservice uses the Swift Package Manager to manage dependencies.
 
 ## Swift Dependencies
